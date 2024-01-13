@@ -1,8 +1,12 @@
 # Newborns' weight data analysis
 
-This project is done as a part of course about Application of Statistical Methods at CTU in Prague. Originally, the work was conducted in Czech language. 
+This project presents a comprehensive analysis of newborns' birth weights recorded on December 18, 1997, at Mater Mothers’ Hospital in Brisbane, Australia. The study focuses on the statistical examination of birth weights based on gender and time of birth.
 
-Main goal of this project is to apply statistical testing (chi-squared Goodness-of-fit, t-test, Lilleforse's test, etc.) on real data.
+The goal of this project was to get familiar with these practices:
+- Descriptive Statistics,
+- Goodness-of-Fit Tests: Evaluation of various statistical distributions to fit the birth data.
+- Hypothesis Testing: Tests conducted to analyze the dependence of birth weight on gender and time of birth (chi-squared Goodness-of-fit, t-test, Lilleforse's test)
+on real data.
 
 ![Project Screenshot](images/hist_kluc_holky_vaha.svg)
 
