@@ -2,7 +2,7 @@
 
 This project is done as a part of course about Application of Statistical Methods at CTU in Prague. Originally, the work was conducted in Czech language.
 
-![Project Screenshot](images/hist_kluc_holky_vaha.eps)
+![Project Screenshot](images/hist_kluc_holky_vaha.svg)
 
 ## Table of Contents
 
