@@ -2,6 +2,8 @@
 
 This project is done as a part of course about Application of Statistical Methods at CTU in Prague. Originally, the work was conducted in Czech language.
 
+![Project Screenshot](images/hist_kluc_holky_vaha.eps)
+
 ## Table of Contents
 
 - [Scripts](#scripts)
@@ -10,11 +12,11 @@ This project is done as a part of course about Application of Statistical Method
 
 ## Scripts
 
-It contains MATLAB scripts for performing statistical tests and generating images that are discussed and displayed in the final report ```SME-english.pdf```. 
+It contains MATLAB scripts for performing statistical tests and generating images that are discussed and displayed in the final report ```english-version.pdf```. 
 
 ## Images
 
-All the generated images are saved in the directory ```Obrazky ke SME```. It is usually not a good practice to upload images to github.
+All the generated images are saved in the directory ```images```. It is usually not a good practice to upload images to github.
 
 ## Data
 
