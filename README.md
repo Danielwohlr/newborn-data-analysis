@@ -1,6 +1,8 @@
 # Newborns' weight data analysis
 
-This project is done as a part of course about Application of Statistical Methods at CTU in Prague. Originally, the work was conducted in Czech language.
+This project is done as a part of course about Application of Statistical Methods at CTU in Prague. Originally, the work was conducted in Czech language. 
+
+Main goal of this project is to apply statistical testing (chi-squared Goodness-of-fit, t-test, Lilleforse's test, etc.) on real data.
 
 ![Project Screenshot](images/hist_kluc_holky_vaha.svg)
 
